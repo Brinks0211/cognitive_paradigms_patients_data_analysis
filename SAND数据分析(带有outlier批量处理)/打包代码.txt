@@ -1,0 +1,1 @@
+pyinstaller -i icon.ico -D main.py  task1.py  task2.py  task3.py  task4.py  task5.py  task6.py  task7.py  task8.py  task9.py  task10.py  task11.py
